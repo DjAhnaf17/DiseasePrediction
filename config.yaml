@@ -1,0 +1,7 @@
+usernames:
+  janedoe:
+    name: Jane Doe
+    password: $2b$12$WkjoyTD35tcPi/rteRbbGeWBCW00y7sHEjqa.jbbFNRZWJr0XWqt6
+  johndoe:
+    name: John Doe
+    password: $2b$12$UnShQkaTKrt2VRbHLAxUNOBYFA3LmOkuXrJEeHjvi.7.WJqXmBnEu
